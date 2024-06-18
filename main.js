@@ -385,7 +385,7 @@ function displayPortfolio() {
   thisHTML += "</tr>";
   thisHTML += "</tfoot>";
   thisHTML += "</table>"
-  thisHTML += "<div class='watermark'>Demoportfolio</div>";
+  //thisHTML += "<div class='watermark'>Demoportfolio</div>";
 
   myContainer.innerHTML = thisHTML;
 
